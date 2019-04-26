@@ -67,10 +67,10 @@ a {
     border-bottom: 1px solid #333333;
 }
 .caption {
-    max-width: 50%;
+    max-width: 100%;
 }
 .image {
-    max-width: 50%;
+    max-width: 100%;
 }
 .inner {
     width: 100%;
